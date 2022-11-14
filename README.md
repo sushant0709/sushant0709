@@ -13,7 +13,7 @@ I'm Sushant Khattar, I'm an embedded software engineer 👨‍💻 who is passio
 -  ⚡ Languages: Python, C, C++, Java
 
 
-> El Psy Kongroo
+> Carpe Diem!!
 
 
 ---
