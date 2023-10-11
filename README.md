@@ -12,10 +12,11 @@ Currently, I'm expanding my horizons by exploring the realm of web technologies,
 
 Here are a few quick facts about me:
 
-🔭 I'm currently focused on mastering web technologies.
-💬 I'm always up for discussions on tech, memes, and sports.
-😄 My preferred pronouns are he/him.
-⚡ I'm proficient in several programming languages, including Python, C, C++, and JavaScript.
+- 🔭 I'm currently focused on mastering web technologies.
+- 💬 I'm always up for discussions on tech, memes, and sports.
+- 😄 My preferred pronouns are he/him.
+- ⚡ I'm proficient in several programming languages, including Python, C, C++, and JavaScript.
+- 
 Feel free to connect with me, whether it's to discuss the latest tech trends, share a good laugh, or chat about your favorite sports moments. 🏏👨‍💻🚀
 
 > Carpe Diem!!
