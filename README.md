@@ -3,15 +3,20 @@
 [![Medium Badge](https://img.shields.io/badge/-@SushantKhattar-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@skhattar82/)](https://medium.com/@skhattar82/)
 [![Gmail Badge](https://img.shields.io/badge/-skhattar82@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skhattar82@gmail.com)](mailto:skhattar82@gmail.com)
 
-## Hi 👋, 
-I'm Sushant Khattar, I'm an embedded software engineer 👨‍💻 who is passionate about mathematics and machine learning. I like watching and playing cricket 🏏, always open to have a chat regarding any sports.  
+## Hello World 👋, 
+I'm Sushant Khattar, a dedicated Computer Science graduate student at NC State University. With a background as an Embedded Software Engineer at NXP Semiconductors, where I specialized in developing Security Firmware, I've delved into the intricacies of technology and cybersecurity. My passion extends to a keen interest in mathematics and the fascinating world of machine learning.
 
-- 🔭 I’m currently working in NXP Semiconductors and my everyday work revolves around cryptography and hardware
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 💬 Ask me about: tech, memes, sports
-- 😄 Pronouns: he/him
--  ⚡ Languages: Python, C, C++, Java
+In addition to my academic and professional pursuits, I have a deep love for cricket, both as a spectator and player. I'm always up for a spirited discussion about this beloved sport.
 
+Currently, I'm expanding my horizons by exploring the realm of web technologies, adding to my repertoire of skills. If you ever want to chat about technology, share some entertaining memes, or dive into the exciting world of sports, feel free to reach out to me.
+
+Here are a few quick facts about me:
+
+🔭 I'm currently focused on mastering web technologies.
+💬 I'm always up for discussions on tech, memes, and sports.
+😄 My preferred pronouns are he/him.
+⚡ I'm proficient in several programming languages, including Python, C, C++, and JavaScript.
+Feel free to connect with me, whether it's to discuss the latest tech trends, share a good laugh, or chat about your favorite sports moments. 🏏👨‍💻🚀
 
 > Carpe Diem!!
 
